@@ -1,5 +1,5 @@
 {
-    "name" : "websockets", 
+    "name" : "c9-mywebsockets", 
     "version" : "0.0.1",
     "dependencies" : 
     {
