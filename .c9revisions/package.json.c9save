@@ -1,2 +1,3 @@
 {"ts":1352829082175,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
 {"contributors":[],"silentsave":false,"ts":1352829086075,"patch":[[{"diffs":[[1,"{\r\n    \"name\" : \"c9-mywebsockets\", \r\n    \"version\" : \"0.0.1\",\r\n    \"dependencies\" : \r\n    {\r\n        \"socket.io\" : \">= 0.8.7\"\r\n    }\r\n}"]],"start1":0,"start2":0,"length1":0,"length2":135}]],"length":135,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1352836764553,"patch":[[{"diffs":[[0," : \""],[-1,"c9-mywebsockets"],[1,"myc9app2"],[0,"\", \r"]],"start1":13,"start2":13,"length1":23,"length2":16}]],"length":128,"saved":false}
